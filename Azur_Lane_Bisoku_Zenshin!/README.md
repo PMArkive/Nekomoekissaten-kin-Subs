@@ -1,6 +1,6 @@
 # 字幕
 
-[字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Other-Subs/raw/master/Azur_Lane_Bisoku_Zenshin!/AzurLane-Bisoku_BD_Subs.7z)  
+[字幕合集]https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-kin-Subs/releases/download/subtitles_pkg/AzurLane-Bisoku_BD_Subs.7z)  
 内含 01-12+SPs 简繁中文字幕
 
 所需字体：
